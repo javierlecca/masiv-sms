@@ -14,5 +14,5 @@ const message = '';
 const longMessage = false; // or a long message
 const flash = false;
 const premium = false;
-masivSms.SendSms(username, password, phone, message, false, false, false)
+masivSms.SendSms(username, password, phone, message, longMessage, flash, premium)
 ```
