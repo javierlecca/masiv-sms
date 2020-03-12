@@ -1,0 +1,28 @@
+{
+  "name": "masiv-sms",
+  "version": "1.0.0",
+  "description": "package to send sms through masive api client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierlecca/masiv-sms.git"
+  },
+  "author": "javier lecca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierlecca/masiv-sms/issues"
+  },
+  "homepage": "https://github.com/javierlecca/masiv-sms#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {}
+}
