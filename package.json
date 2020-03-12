@@ -1,6 +1,6 @@
 {
   "name": "masiv-sms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package to send sms through masive api client",
   "main": "index.js",
   "scripts": {
